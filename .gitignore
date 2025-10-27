@@ -1,0 +1,129 @@
+# ==========================================================
+# React Native - Git Ignore (Android + iOS + VSCode)
+# ==========================================================
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+.env
+.env.local
+.env.*.local
+
+# ==========================================================
+# Android
+# ==========================================================
+android/.gradle/
+android/app/build/
+android/build/
+android/.idea/
+android/local.properties
+android/gradlew
+android/gradlew.bat
+android/gradle/
+android/app/release/
+android/app/debug/
+android/app/release/app-release.apk
+android/app/build/outputs/
+android/app/intermediates/
+android/app/libs/
+*.apk
+*.keystore
+*.so
+
+# ==========================================================
+# iOS
+# ==========================================================
+ios/build/
+ios/Pods/
+ios/DerivedData/
+ios/*.xcworkspace
+ios/*.xcuserstate
+ios/*.xcuserdata/
+ios/.DS_Store
+ios/*.hmap
+ios/*.ipa
+
+# ==========================================================
+# Metro / React Native Cache
+# ==========================================================
+.expo/
+.expo-shared/
+dist/
+build/
+tmp/
+temp/
+.cache/
+babel-cache/
+npm-cache/
+yarn-cache/
+metro-cache/
+watchman/
+logs/
+__generated__/
+*.log
+
+# ==========================================================
+# IDE / Editor files
+# ==========================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+*.class
+*.project
+*.settings
+*.workspace
+*.launch
+
+# ==========================================================
+# macOS / Windows junk
+# ==========================================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ==========================================================
+# Fastlane / Gradle / CocoaPods output
+# ==========================================================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+*.lock
+*.xcuserdatad
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# ==========================================================
+# Jest / Coverage
+# ==========================================================
+coverage/
+jest-cache/
+jest-results.json
+test-report.xml
+
+# ==========================================================
+# VSCode React Native Tools Debugger
+# ==========================================================
+.vscode/.react/
+.vscode/.expo/
+.vscode/launch.json
+.vscode/settings.json
+
+# ==========================================================
+# Misc
+# ==========================================================
+*.pid
+*.seed
+*.tgz
+*.bak
+*.tmp
+*.orig
+*.rej
