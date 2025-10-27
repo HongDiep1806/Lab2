@@ -1,0 +1,2 @@
+E:\CSE441\Lab2\Q3Calculator\node_modules\react-native-safe-area-context\android\src\main\jni\CMakeLists.txt
+E:\CSE441\Lab2\Q3Calculator\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt

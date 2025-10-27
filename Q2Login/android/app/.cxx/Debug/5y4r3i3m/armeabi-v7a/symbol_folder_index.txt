@@ -1,0 +1,1 @@
+E:\CSE441\Lab2\Q2Login\android\app\build\intermediates\cxx\Debug\5y4r3i3m\obj\armeabi-v7a

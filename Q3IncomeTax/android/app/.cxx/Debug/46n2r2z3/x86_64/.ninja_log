@@ -1,0 +1,15 @@
+# ninja log v5
+4	43	0	E:/CSE441/Lab2/Q3IncomeTax/android/app/.cxx/Debug/46n2r2z3/x86_64/CMakeFiles/cmake.verify_globs	b34a53fb9a6414e1
+136	11317	7831998334293927	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/6fc6cd31bbe2b042f02fcbe4e6f2888b/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	8c3c14d0d559bbf7
+44	12238	7831998343898200	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/65e8512ee4aed93e8129d105d9c604de/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	c84a3acc1628d372
+113	13466	7831998356133435	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/0f874edbfb9130efa99dbdd45eb457e8/renderer/components/safeareacontext/safeareacontextJSI-generated.cpp.o	a915e6276e6168c6
+157	13708	7831998358557357	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/720298ccb887ebf3ab584fd09790b1a7/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	daacf770b21cb3bc
+20	14919	7831998370585097	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/131a16483162ff34630a0f789811fb60/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	f44e1c63c252085e
+93	15822	7831998379836544	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/6fc6cd31bbe2b042f02fcbe4e6f2888b/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	b89ceeea3893a57f
+11	15921	7831998380854012	CMakeFiles/appmodules.dir/OnLoad.cpp.o	35e252d4aa01c24c
+75	16040	7831998382002503	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/6fc6cd31bbe2b042f02fcbe4e6f2888b/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	48ae57b7b91aa666
+57	17168	7831998393346992	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4d62355f37a28b301de6041ebce5c679/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	6523a4c25c32a0b0
+1	17916	7831998400451811	CMakeFiles/appmodules.dir/E_/CSE441/Lab2/Q3IncomeTax/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ccbe3041f0e7e535
+33	18063	7831998402459674	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/3a9dbb3215d359d6a6421855fa0c5c59/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	c3d07f27639fbaf7
+18063	18294	7831998404890477	E:/CSE441/Lab2/Q3IncomeTax/android/app/build/intermediates/cxx/Debug/46n2r2z3/obj/x86_64/libreact_codegen_safeareacontext.so	3e82be7534d25d7f
+18294	18470	7831998406542562	E:/CSE441/Lab2/Q3IncomeTax/android/app/build/intermediates/cxx/Debug/46n2r2z3/obj/x86_64/libappmodules.so	553f86cb9ef9f6ea
